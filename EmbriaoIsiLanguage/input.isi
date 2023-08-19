@@ -1,0 +1,21 @@
+programa
+
+	texto a, b;
+	numero n1, n2;
+	
+	leia(a);
+	leia(b);
+	
+	a = 1 + 2 * 3 / 4;
+	
+	escreva(a);
+	escreva(b);
+	
+	se (a > b) {
+		escreva(a);
+	}
+	senao {
+		escreva(b);
+	}
+
+fimprog;
